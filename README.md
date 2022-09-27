@@ -32,3 +32,5 @@ This repository contains my personal summaries and notes on statistics, which ar
     * Z-Testing
     * T-Testing
     * Annova Testing
+
+I have taken some reference from the online websites and peers in this field, and if in case of any errors feel free to contact me at travi0764@gmail.com
